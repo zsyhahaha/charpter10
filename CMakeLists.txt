@@ -3,4 +3,4 @@ project(charpter10)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(charpter10 main.cpp stock.cpp stock.h)
+add_executable(charpter10 List.cpp List.h mainList.cpp)
