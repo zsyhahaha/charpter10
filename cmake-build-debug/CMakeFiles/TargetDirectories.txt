@@ -1,3 +1,0 @@
-C:/Users/华硕/CLionProjects/charpter10/cmake-build-debug/CMakeFiles/charpter10.dir
-C:/Users/华硕/CLionProjects/charpter10/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/华硕/CLionProjects/charpter10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
